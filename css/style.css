@@ -1,0 +1,14 @@
+body{
+    color: darkgray;
+    text-align: center;
+    font-family: "Arial";
+}
+h1{
+    color: darksalmon;
+}
+.primer-parrafo{
+    color: salmon;
+}
+p{
+    color: green;
+}
