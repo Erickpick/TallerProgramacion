@@ -2,6 +2,12 @@ body{
     color: darkgray;
     text-align: center;
     font-family: "Arial";
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    display :flex;
+    background: sandybrown;
 }
 h1{
     color: darksalmon;
